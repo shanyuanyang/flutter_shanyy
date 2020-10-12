@@ -53,7 +53,7 @@ class _TabsState extends State<Tabs> {
               children: <Widget>[
                 Expanded(
                     child: UserAccountsDrawerHeader(
-                  accountName: Text("大地老师"),
+                  accountName: Text("海洋老师"),
                   accountEmail: Text("dadi@itying.com"),
                   currentAccountPicture: CircleAvatar(
                     backgroundImage: NetworkImage(
